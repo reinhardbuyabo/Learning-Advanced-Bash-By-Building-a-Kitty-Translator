@@ -87,3 +87,7 @@ history -a
 cat < name.txt
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo Reinhard
+cat
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
