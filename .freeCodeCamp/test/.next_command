@@ -209,3 +209,29 @@ history -a
 grep --color meow kitty_ipsum_1.txt
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+man grep
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+man grep
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+grep --color -x meow kitty_ipsum_1.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+grep --color -l mewo kitty_ipsum_1.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+grep --color -l meow kitty_ipsum_1.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+man grep
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+grep --color -n mewo kitty_ipsum_1.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+grep --color -n meow kitty_ipsum_1.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
