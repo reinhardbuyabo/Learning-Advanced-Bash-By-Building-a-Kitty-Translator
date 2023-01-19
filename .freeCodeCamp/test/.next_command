@@ -176,3 +176,9 @@ cat kitty_ipsum_1.txt
 wc -l >> kitty_info.txt
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo -e "\nNumber of words:"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo -e "\nNumber of words:" >> kitty_info.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
