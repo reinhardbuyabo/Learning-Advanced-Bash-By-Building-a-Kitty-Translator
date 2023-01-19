@@ -749,3 +749,9 @@ history -a
 man diff
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+man diff
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+diff --color kitty_ipsum_1.txt doggy_ipsum_1.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
