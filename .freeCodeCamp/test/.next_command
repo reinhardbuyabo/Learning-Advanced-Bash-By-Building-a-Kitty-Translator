@@ -20,3 +20,12 @@ history -a
 echo hello bash > stdout.txt
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+cat stdout.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+> stdout.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
