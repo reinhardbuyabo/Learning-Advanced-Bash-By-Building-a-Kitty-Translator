@@ -65,3 +65,9 @@ history -a
 read NAME < name.txt
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+ECHO $NAME
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $NAME
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
